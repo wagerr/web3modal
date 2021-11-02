@@ -11,4 +11,6 @@ export declare const MEWCONNECT: IProviderInfo;
 export declare const DCENT: IProviderInfo;
 export declare const BITSKI: IProviderInfo;
 export declare const FRAME: IProviderInfo;
+export declare const BINANCECHAINWALLET: IProviderInfo;
+export declare const WAGERRCHAINWALLET: IProviderInfo;
 //# sourceMappingURL=index.d.ts.map

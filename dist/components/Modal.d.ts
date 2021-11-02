@@ -5,6 +5,7 @@ declare global {
     interface Window {
         ethereum: any;
         BinanceChain: any;
+        providerManager: any;
         web3: any;
         updateWeb3Modal: any;
     }

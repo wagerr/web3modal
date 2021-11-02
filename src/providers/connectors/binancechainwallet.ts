@@ -10,6 +10,7 @@ const ConnectToBinanceChainWallet = async () => {
   } else {
     throw new Error("No Binance Chain Wallet found");
   }
+  provider.isBinanceChainWallet = true;
   return provider;
 };
 

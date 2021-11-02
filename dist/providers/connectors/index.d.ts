@@ -11,5 +11,6 @@ import dcentwallet from "./dcentwallet";
 import bitski from "./bitski";
 import frame from "./frame";
 import binancechainwallet from "./binancechainwallet";
-export { injected, walletconnect, portis, torus, fortmatic, arkane, authereum, burnerconnect, mewconnect, dcentwallet, bitski, frame, binancechainwallet };
+import wagerrchainwallet from "./wagerrchainwallet";
+export { injected, walletconnect, portis, torus, fortmatic, arkane, authereum, burnerconnect, mewconnect, dcentwallet, bitski, frame, binancechainwallet, wagerrchainwallet };
 //# sourceMappingURL=index.d.ts.map
