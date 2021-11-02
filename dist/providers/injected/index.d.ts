@@ -13,4 +13,5 @@ export declare const STATUS: IProviderInfo;
 export declare const TOKENARY: IProviderInfo;
 export declare const FRAMEINJECTED: IProviderInfo;
 export declare const LIQUALITY: IProviderInfo;
+export declare const BINANCECHAINWALLET: IProviderInfo;
 //# sourceMappingURL=index.d.ts.map
