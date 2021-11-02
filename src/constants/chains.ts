@@ -97,6 +97,12 @@ export const CHAIN_DATA_LIST: ChainDataList = {
     network: "binance",
     networkId: 56
   },
+  97: {
+    chainId: 97,
+    chain: "BSC",
+    network: "binance-testnet",
+    networkId: 97
+  },
   60: {
     chainId: 60,
     chain: "GO",
