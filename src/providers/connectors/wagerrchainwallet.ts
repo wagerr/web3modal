@@ -8,7 +8,7 @@ const ConnectToWagerrChainWallet = async () => {
       throw new Error("User Rejected");
     }
   } else {
-    throw new Error("No Wagerr Chain Wallet found");
+    throw new Error("No Wagerr Mainnet Wallet found");
   }
   provider.isWagerrChainWallet = true;
   return provider;

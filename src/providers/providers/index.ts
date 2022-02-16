@@ -148,7 +148,7 @@ export const BINANCECHAINWALLET: IProviderInfo = {
 
 export const WAGERRCHAINWALLET: IProviderInfo = {
   id: "wagerrchainwallet",
-  name: "Wagerr Chain",
+  name: "Wagerr Mainnet",
   logo: WagerrChainWalletLogo,
   type: "injected",
   check: "isWagerrChainWallet"
